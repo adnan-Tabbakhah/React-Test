@@ -1,0 +1,330 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "FirstName": "Dina",
+      "year": "",
+      "gender": "Female",
+      "subjects": [
+        {
+          "SubjectName": "",
+          "TeachersNames": "",
+          "DayTime": ""
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "FirstName": "Lina",
+      "year": "",
+      "gender": "Female",
+      "subjects": [
+        {
+          "SubjectName": "",
+          "TeachersNames": "",
+          "DayTime": ""
+        }
+      ]
+    },
+    {
+      "id": "151",
+      "FirstName": "fdsa",
+      "year": "PharmacySubjectsListSecondYear",
+      "gender": "female",
+      "subjects": [
+        {
+          "SubjectName": "Pharmaceutical Microbiology",
+          "TeachersNames": "Deandre Schroeder",
+          "DayTime": " Tuesday – 10:00am"
+        }
+      ]
+    },
+    {
+      "id": "456",
+      "FirstName": "tamer",
+      "year": "",
+      "gender": "Female",
+      "subjects": [
+        {
+          "SubjectName": "",
+          "TeachersNames": "",
+          "DayTime": ""
+        }
+      ]
+    },
+    {
+      "id": "887",
+      "FirstName": "dana",
+      "year": "",
+      "gender": "Female",
+      "subjects": [
+        {
+          "SubjectName": "",
+          "TeachersNames": "",
+          "DayTime": ""
+        }
+      ]
+    },
+    {
+      "id": "573",
+      "FirstName": "adnan",
+      "year": "PharmacySubjectsThirdSecondYear",
+      "gender": "male",
+      "subjects": [
+        {
+          "SubjectName": "Medicinal Chemistry 2",
+          "TeachersNames": "Savannah Brooks",
+          "DayTime": "Monday – 12:00pm "
+        }
+      ]
+    }
+  ],
+  "PharmacySubjectsListFirstYear": [
+    {
+      "SubjectName": "Human Anatomy and Physiology",
+      "id": "11",
+      "TeachersNames": [
+        {
+          "TeacherName": "Gary Cabrera",
+          "DayTime": [
+            "Monday – 08:00am",
+            "Thursday – 02:00pm"
+          ]
+        },
+        {
+          "TeacherName": "Stacy Logan",
+          "DayTime": [
+            "Monday – 08:00am",
+            "Thursday – 02:00pm"
+          ]
+        },
+        {
+          "TeacherName": "Priscilla Phelps",
+          "DayTime": "Sunday – 10:00am"
+        }
+      ]
+    },
+    {
+      "SubjectName": "Pharmaceutics",
+      "id": "12",
+      "TeachersNames": [
+        {
+          "TeacherName": "Aliza Vance",
+          "DayTime": [
+            "Sunday – 12:00"
+          ]
+        },
+        {
+          "TeacherName": "Priscilla Phelps",
+          "DayTime": [
+            "  Monday – 12:00am  ",
+            "Tuesday – 02:00pm"
+          ]
+        }
+      ]
+    },
+    {
+      "SubjectName": "Remedial Biology",
+      "id": "13",
+      "TeachersNames": [
+        {
+          "TeacherName": "Averie Carter",
+          "DayTime": [
+            "Sunday – 02:00pm",
+            "Tuesday – 12:00pm"
+          ]
+        },
+        {
+          "TeacherName": "Savannah Brooks",
+          "DayTime": [
+            " Wednesday 12:00pm  "
+          ]
+        }
+      ]
+    },
+    {
+      "SubjectName": "Pharmaceutical Analysis",
+      "id": "14",
+      "TeachersNames": [
+        {
+          "TeacherName": "Belen Fox",
+          "DayTime": [
+            "Thursday – 2:00pm"
+          ]
+        },
+        {
+          "TeacherName": "Yadira Mcintyre",
+          "DayTime": [
+            " Sunday – 10:00am "
+          ]
+        }
+      ]
+    },
+    {
+      "SubjectName": "Pharmaceutical Inorganic Chemistry",
+      "id": "15",
+      "TeachersNames": [
+        {
+          "TeacherName": "Grayson Stout",
+          "DayTime": [
+            "Sunday – 02:00pm"
+          ]
+        },
+        {
+          "TeacherName": "Yadira Mcintyre",
+          "DayTime": [
+            "Monday – 10:00am",
+            "Thursday – 02:00pm"
+          ]
+        }
+      ]
+    }
+  ],
+  "PharmacySubjectsListSecondYear": [
+    {
+      "SubjectName": "Physical Pharmaceutics",
+      "id": "21",
+      "TeachersNames": [
+        {
+          "TeacherName": "Maurice Phillips",
+          "DayTime": [
+            "Monday – 10:00am",
+            "Thursday – 12:00pm"
+          ]
+        },
+        {
+          "TeacherName": "Ayaan Herring",
+          "DayTime": [
+            " Monday – 08:00am ",
+            "Tuesday – 02:00pm"
+          ]
+        },
+        {
+          "TeacherName": "Deon Farrell",
+          "DayTime": "Sunday – 12:00pm"
+        }
+      ]
+    },
+    {
+      "SubjectName": "Pharmaceutical Microbiology",
+      "id": "22",
+      "TeachersNames": [
+        {
+          "TeacherName": "Aliza Vance",
+          "DayTime": [
+            "Sunday – 10:00am"
+          ]
+        },
+        {
+          "TeacherName": "Fisher Frederick",
+          "DayTime": [
+            " Monday – 02:00pm ",
+            "Tuesday – 02:00pm"
+          ]
+        }
+      ]
+    },
+    {
+      "SubjectName": "Pharmaceutical Engineering",
+      "id": "23",
+      "TeachersNames": [
+        {
+          "TeacherName": "Deandre Schroeder",
+          "DayTime": [
+            " Wednesday –02:00pm ",
+            " Tuesday – 10:00am"
+          ]
+        },
+        {
+          "TeacherName": "Savannah Brooks",
+          "DayTime": [
+            " Wednesday 10:00am  "
+          ]
+        },
+        {
+          "TeacherName": "Elisabeth Nelson",
+          "DayTime": [
+            " Thursday – 02:00pm  "
+          ]
+        }
+      ]
+    },
+    {
+      "SubjectName": "Pharmaceutical Organic Chemistry",
+      "id": "24",
+      "TeachersNames": [
+        {
+          "TeacherName": "Juliana Stevens",
+          "DayTime": [
+            "Thursday – 12:00pm"
+          ]
+        },
+        {
+          "TeacherName": "Reagan Moss",
+          "DayTime": [
+            " Tuesday – 12:00pm"
+          ]
+        }
+      ]
+    },
+    {
+      "SubjectName": "Medicinal Chemistry",
+      "id": "25",
+      "TeachersNames": [
+        {
+          "TeacherName": "Drake Cisneros",
+          "DayTime": [
+            "Sunday – 12:00pm"
+          ]
+        },
+        {
+          "TeacherName": "Reed Greer",
+          "DayTime": [
+            "    Wednesday –10:00am ",
+            "Thursday – 12:00pm"
+          ]
+        }
+      ]
+    }
+  ],
+  "PharmacySubjectsThirdSecondYear": [
+    {
+      "SubjectName": "Industrial Pharmacy",
+      "id": "31",
+      "TeachersNames": [
+        {
+          "TeacherName": "Savannah Brooks",
+          "DayTime": [
+            "Monday – 12:00pm ",
+            "Thursday – 8:00am"
+          ]
+        },
+        {
+          "TeacherName": "Reagan Moss",
+          "DayTime": [
+            " Tuesday – 02:00pm "
+          ]
+        }
+      ]
+    },
+    {
+      "SubjectName": "Medicinal Chemistry 2",
+      "id": "32",
+      "TeachersNames": [
+        {
+          "TeacherName": "Grayson Stout",
+          "DayTime": [
+            "Sunday – 10:00am"
+          ]
+        },
+        {
+          "TeacherName": "Ayaan Herring",
+          "DayTime": [
+            "Monday – 10:00am ",
+            "Tuesday – 12:00pm"
+          ]
+        }
+      ]
+    }
+  ]
+}

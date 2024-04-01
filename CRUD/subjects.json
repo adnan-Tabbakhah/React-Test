@@ -1,0 +1,65 @@
+
+{
+    "PharmacySubjectsListFirstYear": [
+        {
+            "SubjectName": "Human Anatomy and Physiology",
+            "TeachersNames": [
+                "Gary Cabrera",
+                "Stacy Logan",
+                "Priscilla Phelps"
+            ],
+            "DayTime": [
+                "Monday – 08:00am",
+                "Thursday – 02:00pm",
+                "Monday – 10:00am",
+                "Tuesday – 02:00pm",
+                "Sunday – 10:00am"
+            ]
+        },
+        {
+            "SubjectName": "Pharmaceutics",
+            "TeachersNames": [
+                "Aliza Vance",
+                "Priscilla Phelps"
+            ],
+            "DayTime": [
+                "Sunday – 12:00",
+                "Monday – 12:00am",
+                "Tuesday – 02:00pm"
+            ]
+        },
+        {
+            "SubjectName": "Remedial Biology",
+            "TeachersNames": [
+                "Averie Carter"
+            ],
+            "DayTime": [
+                "Sunday – 02:00pm",
+                "Tuesday – 12:00pm"
+            ]
+        },
+        {
+            "SubjectName": "Pharmaceutical Analysis",
+            "TeachersNames": [
+                "Savannah Brooks",
+                "Belen Fox"
+            ],
+            "DayTime": [
+                "Wednesday 12:00pm",
+                "Thursday–2:00pm"
+            ]
+        },
+        {
+            "SubjectName": "Pharmaceutical Inorganic Chemistry",
+            "TeachersNames": [
+                "Grayson Stout",
+                "Yadira Mcintyre"
+            ],
+            "DayTime": [
+                "Sunday–02:00pm",
+                "Monday–10:00am",
+                "Thursday–02:00pm"
+            ]
+        }
+    ]
+}
